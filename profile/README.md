@@ -38,35 +38,10 @@ This organization hosts the open, reusable, and public-facing parts of our work:
 
 <br/>
 
-## Pinned work
 
-<div align="center">
-<a href="https://github.com/kioteam-ir/kio-website">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=kioteam-ir&repo=kio-website&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-<sub>These render automatically once the repos exist under the org and are public.</sub>
 
 <br/>
 
-## Case study — Loan & Fund Management Platform
-
-A fintech platform with multi-step authentication, transaction management, and real-time reporting. Designed and shipped end-to-end in five weeks, zero schedule slippage.
-
-<div align="center">
-
-| Delivery | Conversion lift | Monthly active users |
-|:---:|:---:|:---:|
-| **5 weeks** | **+68%** | **50K+** |
-
-</div>
-
-> "Kio built exactly what we had in mind — including details we'd forgotten we needed."
-> — CEO, Aria Investment Fund
-
-<br/>
 
 ## Stack
 
@@ -88,34 +63,19 @@ A fintech platform with multi-step authentication, transaction management, and r
 
 <div align="center">
 
-<a href="https://github.com/GITHUB_HANDLE_1"><img src="https://github.com/GITHUB_HANDLE_1.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
-<a href="https://github.com/GITHUB_HANDLE_2"><img src="https://github.com/GITHUB_HANDLE_2.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
-<a href="https://github.com/GITHUB_HANDLE_3"><img src="https://github.com/GITHUB_HANDLE_3.png" width="64" style="border-radius:50%" /></a>
+<a href="https://github.com/pousay"><img src="https://github.com/pousay.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
+<a href="https://github.com/mamahoos"><img src="https://github.com/mamahoos.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
+<a href="https://github.com/yas3in"><img src="https://github.com/yas3in.png" width="64" style="border-radius:50%" /></a>
 
-<sub>Each avatar pulls the real, live GitHub profile photo for that handle — no upload needed, and it updates automatically if they change it.</sub>
 
 </div>
 
 <br/>
 
-## Contributing
-
-Issues and pull requests are welcome from the team and trusted collaborators.
-
-```bash
-git clone https://github.com/ORG_NAME/kio-frontend.git
-cd kio-frontend
-npm install
-npm run dev
-```
-
-Open an issue before starting large changes, and keep pull requests scoped to one concern.
-
-<br/>
 
 ## Get in touch
 
-📍 Kermanshah, Iran &nbsp;·&nbsp; 📞 +98 912 000 0000 &nbsp;·&nbsp; ✉️ [hello@kio.team](mailto:hello@kio.team)
+> nothing yet
 
 <div align="center">
 <sub>© 2026 Kio. All rights reserved.</sub>
