@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./logo.png" alt="Kio" width="80" />
+<img src="./../assets/logo.png" alt="Kio" width="80" />
 <br/><br/>
 
 # Kio
