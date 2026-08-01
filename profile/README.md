@@ -7,14 +7,14 @@
 **We engineer digital products like a blueprint — precise, deliberate, built to last.**
 
 <p>
-  <a href="https://kio.team"><img src="https://img.shields.io/badge/website-kio.team-2f8fc4?style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:hello@kio.team"><img src="https://img.shields.io/badge/contact-hello%40kio.team-c34456?style=for-the-badge" alt="Email" /></a>
-  <a href="https://t.me/YourTelegramID"><img src="https://img.shields.io/badge/telegram-@kio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://kioteam.ir"><img src="https://img.shields.io/badge/website-kioteam.ir-2f8fc4?style=for-the-badge" alt="Website" /></a>
+  <!-- <a href="mailto:hello@kio.team"><img src="https://img.shields.io/badge/contact-hello%40kio.team-c34456?style=for-the-badge" alt="Email" /></a> -->
+  <a href="https://t.me/kioteam"><img src="https://img.shields.io/badge/telegram-@kioteam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/ORG_NAME?style=flat-square&color=2f8fc4&label=stars" alt="Org stars" />
-  <img src="https://img.shields.io/github/followers/ORG_NAME?style=flat-square&color=c34456&label=followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/kioteam-ir?style=flat-square&color=2f8fc4&label=stars" alt="Org stars" />
+  <img src="https://img.shields.io/github/followers/kioteam-ir?style=flat-square&color=c34456&label=followers" alt="Followers" />
   <img src="https://img.shields.io/badge/status-actively%20building-2ea043?style=flat-square" alt="Status" />
 </p>
 </div>
@@ -41,12 +41,10 @@ This organization hosts the open, reusable, and public-facing parts of our work:
 ## Pinned work
 
 <div align="center">
-<a href="https://github.com/ORG_NAME/kio-frontend">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ORG_NAME&repo=kio-frontend&theme=github_dark&hide_border=true" />
+<a href="https://github.com/kioteam-ir/kio-website">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=kioteam-ir&repo=kio-website&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/ORG_NAME/kio-api">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=ORG_NAME&repo=kio-api&theme=github_dark&hide_border=true" />
-</a>
+
 </div>
 
 <sub>These render automatically once the repos exist under the org and are public.</sub>
