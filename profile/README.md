@@ -65,6 +65,7 @@ This organization hosts the open, reusable, and public-facing parts of our work:
 
 <a href="https://github.com/pousay"><img src="https://github.com/pousay.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
 <a href="https://github.com/mamahoos"><img src="https://github.com/mamahoos.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
+<a href="https://github.com/mamahoos"><img src="https://github.com/1Sohrab1.png" width="64" style="border-radius:50%" /></a>&nbsp;&nbsp;
 <a href="https://github.com/yas3in"><img src="https://github.com/yas3in.png" width="64" style="border-radius:50%" /></a>
 
 
